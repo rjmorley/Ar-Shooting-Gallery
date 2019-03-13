@@ -1,0 +1,6 @@
+framework module Pods_ARcherTests {
+  umbrella header "Pods-ARcherTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

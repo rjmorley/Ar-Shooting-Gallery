@@ -1,0 +1,6 @@
+framework module Pods_ARcherUITests {
+  umbrella header "Pods-ARcherUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_yourFit {
+  umbrella header "Pods-yourFit-umbrella.h"
+
+  export *
+  module * { export * }
+}
